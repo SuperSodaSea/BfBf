@@ -1,5 +1,7 @@
 # BfBf
 
+A Brainfuck interpreter written by Brainfuck.
+
 
 ## License
 
